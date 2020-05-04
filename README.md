@@ -1,6 +1,6 @@
-# ordersapp
+ordersapp
  
-#To Dos:
+To Dos:
 
 Add Script-Tags that will let you use App Data in Front End Code for Forms Submissions
 [https://shopify.dev/docs/admin-api/rest/reference/online-store/scripttag?api[version]=2020-04]
@@ -39,7 +39,6 @@ Note: remove all " ( quotation marks ) & include whatever scopes your app requir
 Update URLs
 In your app setup, update the URLs to match your .env file. Change out the ngrok URLs to your heroku URLs. See below:
 
-image
 
 Setup Config Vars in Heroku Admin
 Access your heroku dashboard & go into your apps overview pane.
